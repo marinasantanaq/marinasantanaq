@@ -15,6 +15,7 @@ my skills as a developer.
 - ⚡ JavaScript
 - 🐙 Git & GitHub
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -24,8 +25,6 @@ my skills as a developer.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinasantanaq&layout=compact&langs_count=7&theme=dark"/>
 
 </div>
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=marinasantanaq&hide_title=true&show_icons=true&include_all_commits=true&theme=algolia)](https://github-stats-extended.vercel.app/api?username=anuraghazra&hide_title=true&show_icons=true&include_all_commits=true&theme=algolia)
 
 ## 🛠️ Technologies & Tools
 
