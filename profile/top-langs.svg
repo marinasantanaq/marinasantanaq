@@ -128,7 +128,7 @@
           
     <svg data-testid="lang-items" x="25">
       
-    <text x="0" y="11" class="stat bold">No languages data.</text>
+    <text x="10" y="9" class="stat bold">No languages data.</text>
   
     </svg>
   
