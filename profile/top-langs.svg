@@ -1,8 +1,8 @@
 
       <svg
-        width="467"
-        height="195"
-        viewBox="0 0 467 195"
+        width="300"
+        height="90"
+        viewBox="0 0 300 90"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -128,7 +128,7 @@
           
     <svg data-testid="lang-items" x="25">
       
-    <text x="10" y="9" class="stat bold">No languages data.</text>
+    <text x="0" y="11" class="stat bold">No languages data.</text>
   
     </svg>
   
