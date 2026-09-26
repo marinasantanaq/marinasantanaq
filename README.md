@@ -17,7 +17,7 @@ my skills as a developer.
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=marinasantanaq&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dracula&hide_rank=true&hide_border=true)](https://github-stats-extended.vercel.app/api?username=marinasantanaq&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dracula)
 
