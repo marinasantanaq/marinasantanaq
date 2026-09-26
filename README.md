@@ -17,11 +17,13 @@ my skills as a developer.
 
 ## 📊 GitHub Stats
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/marinasantanaq/marinasantanaq/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats" height="150" alt="stats graph" /> <br>
-  <img src="https://raw.githubusercontent.com/marinasantanaq/marinasantanaq/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+<div align="center">
+  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=marinasantanaq&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dracula&hide_rank=true&hide_border=true)](https://github-stats-extended.vercel.app/api?username=marinasantanaq&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dracula)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=marinasantanaq&layout=compact&langs_count=4&theme=dracula&hide_border=true)](https://github-stats-extended.vercel.app/api/top-langs?username=marinasantanaq&layout=compact&langs_count=4&theme=dracula)
+
+</div>
 
 ## 🛠️ Technologies & Tools
 
